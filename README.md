@@ -1,5 +1,5 @@
 # AnimeXplore - Kodi Addon
-- ![Fanart](resources/fanart.jpg)
+![Fanart](resources/fanart.jpg)
 
 AnimeXplore es un addon para Kodi diseñado para los amantes del anime. Este addon te permite ver anime de manera gratuita, sin anuncios ni distracciones. Conecta tu Kodi directamente a múltiples servidores de streaming de anime para disfrutar de tus series y películas favoritas en un entorno limpio, fluido y libre de interrupciones.
 
