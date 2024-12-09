@@ -32,6 +32,7 @@ Para más detalles sobre la **Licencia GPL-3.0**, consulta el archivo LICENSE en
 ## Enlaces
 
 - **Página web**: [https://animexplore.soyhugo.es](http://animexplore.soyhugo.es)
+- **Web de descarga para Kodi**: [https://soyhugoes.github.io/AnimeXplore/](http://animexplore.soyhugo.es)
 - **Email de soporte**: [info@soyhugo.es](mailto:info@soyhugo.es)
 
 ## Créditos
