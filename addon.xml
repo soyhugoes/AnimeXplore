@@ -10,11 +10,11 @@
     <summary lang="es_es">AnimeXplore: Addon para Kodi que conecta con servidores de anime para ver contenido gratis, sin anuncios ni distracciones, en un entorno limpio y fluido.</summary>
     <description lang="es_es">¡Descubre AnimeXplore, el addon definitivo para los amantes del anime! AnimeXplore conecta tu Kodi directamente a múltiples servidores de streaming de anime para disfrutar de tus series y películas favoritas gratis, sin anuncios y sin distracciones.</description>
     <disclaimer lang="es_es"></disclaimer>
-    <language>es</language>
+    <language>es</language> 
     <platform>all</platform>
-    <license>GPL-2.0-or-later</license>
+    <license>GPL-3.0</license>
     <!-- <forum>https://forum.kodi.tv/showthread.php?tid=xxxx</forum> -->
-    <website>http://animexplore.soyhugo.es</website>
+    <website>https://animexplore.soyhugo.es</website>
     <email>info@soyhugo.es</email>
     <!-- <source>http://github.com/you/plugin.addon.id</source> -->
     <news>v1.0.0 (09/12/2024)
