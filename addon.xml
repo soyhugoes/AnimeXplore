@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <addon id="plugin.video.animexplore" name="AnimeXplore" version="1.0.0" provider-name="SoyHugo">
   <requires>
-    <import addon="xbmc.python"/>
+    <import addon="xbmc.python" version="3.0.0" />
   </requires>
   <extension point="xbmc.python.pluginsource" library="addon.py">
     <provides>video</provides>
@@ -14,14 +14,13 @@
     <summary lang="en_EN">AnimeXplore: Addon for Kodi that connects to anime servers to watch free content, without ads or distractions, in a clean and fluid environment.</summary>
     <description lang="en_EN">Discover AnimeXplore, the definitive addon for anime lovers! AnimeXplore connects your Kodi directly to multiple anime streaming servers to enjoy your favorite series and movies for free, without ads and without distractions.</description>
     
-    <disclaimer lang="es_es"></disclaimer>
     <language>es</language> 
     <platform>all</platform>
     <license>GPL-3.0</license>
     <!-- <forum>https://forum.kodi.tv/showthread.php?tid=xxxx</forum> -->
     <website>https://animexplore.soyhugo.es</website>
     <email>info@soyhugo.es</email>
-    <source>http://github.com/soyhugoes/animeXplore</source>
+    <!-- <source>http://github.com/soyhugoes/animeXplore</source> -->
     <news>v1.0.0 (09/12/2024)
       [new] Addon created.
     </news>
